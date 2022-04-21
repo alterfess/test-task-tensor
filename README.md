@@ -16,7 +16,7 @@ pytest -s -v
 cd .\tests\
 pytest .\test_yandex_pictures.py -s -v
 ```
-**or*
+**or**
 ```
 cd .\tests\
 pytest .\test_homepage_yandex.py -s -v
