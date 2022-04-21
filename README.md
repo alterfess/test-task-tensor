@@ -13,7 +13,12 @@ pytest -s -v
 ```
 - You can start scenarios separately:
 ```
+cd .\tests\
 pytest .\test_yandex_pictures.py -s -v
+```
+**or*
+```
+cd .\tests\
 pytest .\test_homepage_yandex.py -s -v
 ```
 
