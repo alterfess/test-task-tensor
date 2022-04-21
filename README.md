@@ -8,12 +8,13 @@ pip install -r requirements.txt
 ```
 - Start of the all autotest scenarios
 ```
-cd .\tests\ -> pytest -s -v
+cd .\tests\
+pytest -s -v
 ```
 - You can start scenarios separately:
 ```
-- pytest .\test_yandex_pictures.py -s -v
-- pytest .\test_homepage_yandex.py -s -v
+pytest .\test_yandex_pictures.py -s -v
+pytest .\test_homepage_yandex.py -s -v
 ```
 
 ### Report generation
