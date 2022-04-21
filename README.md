@@ -17,7 +17,7 @@ cd .\tests\ -> pytest -s -v
 ```
 
 ### Report generation
-All reports are generated in **test\reports** folder:
+All reports are generated in **tests\reports** folder:
 
 For yandex home page test:
 ```
