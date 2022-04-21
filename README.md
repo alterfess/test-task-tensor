@@ -1,6 +1,6 @@
 ### Instalation and execution
 
-- In this project webdriver_manager is used. You don't need inistall webdrivers separately
+- In this project webdriver_manager is used. You don't need install webdrivers separately
 - pip install -r requirements.txt: Installation of the all nedeed plugins in the virtual environment
 - cd .\tests\ -> pytest -s -v: Start of the all autotest scenarios
 
