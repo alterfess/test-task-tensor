@@ -1,0 +1,14 @@
+Timestamp:2022-04-21 17:07:57.500694
+Automation test is proceeded
+Validating Search bar...
+Passed: Search bar is presented on the page
+Validating Suggested list...
+Keys are sent to the element
+Passed: Suggested list is visible on the page
+Validating content table...
+Enter is sent to the element
+Passed: Content table is visible on the page
+Validating https://tensor.ru/...
+Passed: https://tensor.ru/ is in the first 5 results
+PASSED
+__________________________________________________
